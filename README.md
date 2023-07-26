@@ -1,6 +1,6 @@
 # Asynchrone I/O-bewerkingen in Python
 
-In deze repository vind je de in c’t magazine besproken Python-code: [1.py](artikel/1.py), [2.py](artikel/2.py), [3.py](artikel/3.py) en [4.py](artikel/4.py) geven de voortgang bij de ontwikkeling weer, [nanodirb.py](artikel/nanodirb.py) is de in het magazine beschreven rudimentaire Dirb-kloon en [dirb.py](dirb.py) de asynchron werkende voltooide implementatie  (niet 1:1) van het origineel [Dirb](https://manpages.debian.org/bullseye/dirb/dirb.1.en.html).
+In deze repository vind je de in c’t magazine besproken Python-code: [1.py](artikel/1.py), [2.py](artikel/2.py), [3.py](artikel/3.py) en [4.py](artikel/4.py) geven de voortgang bij de ontwikkeling weer, [nanodirb.py](artikel/nanodirb.py) is de in het magazine beschreven rudimentaire Dirb-kloon en [dirb.py](dirb.py) de asynchroon werkende voltooide implementatie  (niet 1:1) van het origineel [Dirb](https://manpages.debian.org/bullseye/dirb/dirb.1.en.html).
 
 ## Voorbereiding
 
