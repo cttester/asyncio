@@ -10,7 +10,7 @@ cd asyncio
 pipenv install
 ```
 
-## Gebruiken
+## Gebruik
 
 Bijvoorbeeld:
 
@@ -46,6 +46,6 @@ Zie [LICENSE](LICENSE)
 Copyright ©️ 2023 [Oliver Lau](mailto:ola@ct.de), [Heise Medien GmbH & Co. KG](https://www.heise-gruppe.de/artikel/Heise-Medien-3904998.html)
 
 
-## Nutzungshinweise
+## Aanwijzingen voor het gebruik
 
 Deze software is geschreven voor leer- en voorbeelddoeleinden en niet voor productief gebruik. F&L Media, Heise Medien en de auteur zijn niet verantwoordelijk voor schade die ontstaat door het gebruik van deze software en geven geen garanties voor de volledigheid, juiste werking of geschiktheid voor gebruik.
