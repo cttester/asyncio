@@ -29,7 +29,7 @@ De switch `-n` geeft aan, hoeveel workers parallel moeten werken, oftewel hoevee
 
 Met de switch `--csv` produceert het script een uitvoer in CSV-formaat, die je bijvoorbeeld kunt openen in een spreadsheetprogramma.
 
-Voor veel URL's geven webserver een redirect terug (HTTP-Status-Code 301 of 302). Zonder de switch `-f` registreert het script alleen de redirect, met deze switch volgt het script de URL waar de redirect heen leidt.
+Voor veel URL's geven webservers een redirect terug (HTTP-Status-Code 301 of 302). Zonder de switch `-f` registreert het script alleen de redirect, met deze switch volgt het script de URL waar de redirect heen leidt.
 
 Standaard worden de resultaten op het scherm getoond. De switch `-o` voert ze naar een bestand uit.
 
